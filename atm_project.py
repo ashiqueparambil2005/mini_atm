@@ -9,8 +9,8 @@ class ATM:
                 return f.read()
         except:
             with open("pin.txt", "w") as f:
-                f.write("1234")   # default PIN
-            return "1234"
+                f.write("1111")   
+            return "1111"
 
     def load_balance(self):
         try:
