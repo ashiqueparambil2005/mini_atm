@@ -1,0 +1,27 @@
+ATM STATEMENT
+-----------------------------
+Current Balance : 5000
+
+Transaction History:
+Checked Balance: 0
+Checked Balance: 0
+Deposited: 2000
+Checked Balance: 2000
+Checked Balance: 2000
+Checked Balance: 2000
+Deposited: 3000
+Available Balance : 5000
+Available Balance : 5000
+Deposit Successful | Amount : 2000 | Balance : 7000
+Statement Downloaded Successfully
+Saved as : statement.txt
+Available Balance : 7000
+Available Balance : 7000
+Available Balance : 7000
+Statement Downloaded Successfully
+Saved as : statement.txt
+Available Balance : 7000
+Withdraw Failed | Insufficient Balance
+Withdraw Successful | Amount : 5000 | Balance : 2000
+Available Balance : 2000
+Deposit Successful | Amount : 3000 | Balance : 5000
